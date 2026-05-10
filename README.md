@@ -42,7 +42,7 @@ A 20-slide professional PowerPoint presentation designed for a 15-minute talk, f
 ### 🎥 Video Presentation
 A 15-minute recorded presentation walking through the slide deck with detailed explanations of foundation models, their applications, and clinical implications.
 
-**Watch on YouTube:** [Foundation Models for Medical Imaging - Video Presentation](YOUTUBE_VIDEO_LINK_HERE)
+**Watch on YouTube:** [Foundation Models for Medical Imaging - Video Presentation](https://youtu.be/d972lyJrj_c)
 
 ---
 
