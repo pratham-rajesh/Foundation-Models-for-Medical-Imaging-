@@ -23,12 +23,12 @@ This project is a detailed exploration of foundation models in medical imaging, 
 **Title:** Foundation Models for Medical Imaging: Status, Challenges, and Directions  
 **Authors:** Chuang Niu, Pengwei Wu, Bruno De Man, and Ge Wang  
 **Publication:** IEEE Transactions on Medical Imaging, 2020  
-**Link:** [View Paper](PAPER_LINK_HERE)
+**Link:** [View Paper](https://arxiv.org/pdf/2602.15913)
 
 ### ✍️ Medium Article
 A comprehensive, professionally written article covering all major aspects of foundation models in medical imaging, optimized for Medium's platform with rich visual content.
 
-**Read on Medium:** [Foundation Models for Medical Imaging: Transforming Healthcare Through AI](MEDIUM_ARTICLE_LINK_HERE)
+**Read on Medium:** [Foundation Models for Medical Imaging: Transforming Healthcare Through AI](https://medium.com/@pratham.r410/foundation-models-for-medical-imaging-transforming-healthcare-through-ai-fd8352be96ec)
 
 ### 📊 Presentation Slides
 A 20-slide professional PowerPoint presentation designed for a 15-minute talk, featuring:
@@ -37,7 +37,7 @@ A 20-slide professional PowerPoint presentation designed for a 15-minute talk, f
 - Clean, modern layout optimized for clarity
 - Comprehensive coverage from fundamentals to future directions
 
-**Download Slides:** [PowerPoint Presentation](SLIDES_LINK_HERE)
+**View Presentation Slides:** [Presentation](https://docs.google.com/presentation/d/1-u0UJ6Q01jIRjIILrd65CGfWsWczhFnBH5fSv37sOG8/edit?usp=sharing)
 
 ### 🎥 Video Presentation
 A 15-minute recorded presentation walking through the slide deck with detailed explanations of foundation models, their applications, and clinical implications.
